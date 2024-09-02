@@ -14,4 +14,4 @@ This project demonstrates perspective transformation using OpenCV. It allows use
 ## input :
 ![cards](https://github.com/user-attachments/assets/3057cbd9-7912-4944-b510-7ccb8c8fd910)
 ## output 
-![Uploading r.PNG…]()
+![r](https://github.com/user-attachments/assets/ee4ee4bc-86e8-451d-bdd4-bd1f88992ccb)
