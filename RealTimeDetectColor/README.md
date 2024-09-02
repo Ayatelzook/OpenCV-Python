@@ -10,5 +10,5 @@ This project demonstrates real-time color filtering using the HSV (Hue, Saturati
 - Displays the original video, mask, and filtered result side by side.
 
 ## Result 
-# input is pen cap 
+# input is Red pen cap 
 ![1](https://github.com/user-attachments/assets/ae1b8399-f97a-47c6-af17-e1b3ca9b8382)
